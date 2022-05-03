@@ -1,0 +1,125 @@
+.pretty {
+    height: 300px ;
+    width: 750px ;
+}
+
+html {
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif;
+}
+
+h1 {
+    border: solid 3px;
+    width: 750px ;
+    font-size: 42px;
+    font-weight: 50;
+}
+
+.header1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.AA {
+    border: 2px solid black;
+    padding-left: 10px ;
+    padding-right: 10px;
+    margin-left: 10px;
+}
+
+.SN {
+    border: 2px solid black;
+    padding-left: 10px ;
+    padding-right: 10px;
+    margin-right: 10px;
+}
+
+.header2 {
+    display: flex;
+    justify-content: space-around;
+    border-top: solid 2px;
+    border-bottom: solid 2px;
+    margin-top: 10px;
+}
+
+a {text-decoration: none;
+    color: blue;
+}
+
+.lists {
+    border: solid 2px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 50px;
+}
+
+.list2 {
+    padding-left: 150px;
+}
+
+.li {
+    position: absolute;
+    bottom: -84px;
+    padding-left: 10px;
+    font-size: medium;
+    text-decoration: underline aquamarine;
+
+}
+
+.it {
+    display: flex ;
+    justify-content: center;
+}
+
+.re {
+    display: flex ;
+    justify-content: center;
+}
+
+.main {
+     font-size: 20px;
+}
+
+.paragraph {
+    display: flex;
+    justify-content: center;
+}
+
+.h2 {
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.logo {
+    border: 2px solid red ;
+    position: absolute;
+    bottom: -320px;
+}
+
+.links {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+
+}
+
+.a {
+    margin-left: 10px;
+}
+
+.fb {
+    height: 40px ;
+    width: 40px
+}
+
+.tw {
+    height: 40px ;
+    width: 40px
+}
+
+.top {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
